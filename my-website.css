@@ -1,0 +1,28 @@
+h1 {
+    color: darkred;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#picture {
+    border: 2 px;
+    width: 100%;
+    max-width: 500px;
+    min-width: 100px;
+}
+.about {
+    color: blue;
+    font-style: italic;
+    font-family: arial;
+    font-weight: bold;
+    border-style: solid;
+    background-color:lightgrey;
+}
+#info {
+    color: rgb(68, 181, 68);
+    font-weight: bold;
+    font-family: san serif;
+    font-style: italic;
+    border-style: dashed;
+}
