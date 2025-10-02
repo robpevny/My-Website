@@ -6,7 +6,7 @@ h1 {
 }
 
 #picture {
-    border: 2 px;
+    border: 2px solid black;
     width: 100%;
     max-width: 500px;
     min-width: 100px;
